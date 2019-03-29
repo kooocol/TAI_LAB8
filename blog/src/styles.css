@@ -1,0 +1,25 @@
+li {
+  display: inline;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+#cos{
+  padding: 5px 50px;
+}
+
+.scroll {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: none;
+}
+html {
+  scroll-behavior: smooth;
+}
